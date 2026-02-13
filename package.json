@@ -44,7 +44,8 @@
     "vitest": "^4.0.18"
   },
   "files": [
-    "build/**/*"
+    "build/**/*",
+    "src/**/*"
   ],
   "bin": {
     "mcp-server-trello": "src/index.ts"
